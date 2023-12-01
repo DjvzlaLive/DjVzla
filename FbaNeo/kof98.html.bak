@@ -27,7 +27,7 @@
 
 <script type="text/javascript">
 	EJS_player = '#game';
-	EJS_biosUrl = ''; // Url to Bios file
+	EJS_biosUrl = "neogeo.zip"; // Url to Bios file
 	EJS_gameParentUrl = ''; // Url to Parent Rom file
 	EJS_gameUrl = "https://archive.org/download/efarcadeversionroms/Arcade%20Version%20Roms/FinalBurn%20v0.2.97.43%20FullRoms.zip/kof98.zip"; // Url to Game rom
 	EJS_core = 'fbneo';
