@@ -20,7 +20,7 @@
     EJS_core = "mame2003";
     
     // URL to Game rom
-    EJS_gameUrl = "tektagt.zip";
+    EJS_gameUrl = "hsf2.zip";
     
     // Path to the data directory
     EJS_pathtodata = "data/";
