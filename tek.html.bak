@@ -8,9 +8,9 @@
     EJS_core = 'mame2003';
     
     // URL to Game rom
-    EJS_gameUrl = "https://archive.org/download/mame-merged/mame-merged/tektagt.zip";
+    EJS_gameUrl = "https://downloads.retrostic.com/roms/tektagt.zip";
     
     // Path to the data directory
-    EJS_pathtodata = '/data/';
+    EJS_pathtodata = 'data/';
 </script>
-<script src='/data/loader.js'></script>
+<script src='data/loader.js'></script>
