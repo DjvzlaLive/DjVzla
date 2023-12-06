@@ -6,7 +6,7 @@
   <meta name="Author" content="">
   <meta name="Keywords" content="">
   <meta name="Description" content="">
-  <title>tag01</title>
+  <title>tag001</title>
  </head>
  <body>
   
@@ -17,7 +17,7 @@
 <script type='text/javascript'>
     EJS_player = "#game";
     
-    EJS_core = "mame2003";
+    EJS_core = "mame2003plus";
     
     // URL to Game rom
     EJS_gameUrl = "tektagt.zip";
